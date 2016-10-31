@@ -1,14 +1,16 @@
 {
   "author" : "isaac as THE HONEY BADGER",
+  "name" : "RPGSIMCUL.IHC",
+  "version" : "1.0",
+  "friendlyName" : "RPG Start! (simple addition + cultural appropriation edition)",
+  "link" : "community.playstarbound.com/threads/124193/",
   "description" : "[h1]Lets go kill cactaur![/h1]
 This version of the mod adds the tier 1 armor of every race to every races starting outfit option. Works for Vanilla races only.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-rpgsimcul]git.[/url]
+Find the server version on [url=https://github.com/IsaacHart/sbmod-rpgsimcul/releases/tag/1.0]git.[/url]
 [url=http://steamcommunity.com/workshop/filedetails/discussion/758570116/343785574524449496/]Request thread for this mod.[/url]",
-  "friendlyName" : "RPG Start! (simple addition + cultural appropriation edition)",
-  "link" : "community.playstarbound.com/threads/124193/",
-  "name" : "RPGSIMCUL.IHC",
-  "steamContentId" : "763291854",
-  "version" : "0.1"
+  "requires" : [],
+  "includes" : [],
+  "steamContentId" : "763291854"
 }
